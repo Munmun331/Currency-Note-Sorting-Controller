@@ -41,7 +41,7 @@ This project implements an FSM-based controller for an automated currency note s
 ![Layout](results/rtl_design.png)
 
 ### Timing Report
-![Timing](results/timing_analysis2.png)
+![Timing](results/timing analysis2.png)
 
 ---
 
