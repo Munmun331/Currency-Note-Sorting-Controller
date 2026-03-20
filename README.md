@@ -76,3 +76,4 @@ This project implements an FSM-based controller for an automated currency note s
 
 ## 👩‍💻 Author
 Munmmun Garg (www.linkedin.com/in/munmun-garg-442159290)
+Saniya Sagar Walavalkar(www.linkedin.com/in/walavalkar-saniya/)
